@@ -3,10 +3,10 @@ import 'package:intl/intl.dart';  // Import for DateFormat
 
 class DoctorAppointmentPage extends StatefulWidget {
   @override
-  _DoctorAppointmentPageState createState() => _DoctorAppointmentPageState();
+  DoctorAppointmentPageState createState() => DoctorAppointmentPageState();
 }
 
-class _DoctorAppointmentPageState extends State<DoctorAppointmentPage> {
+class DoctorAppointmentPageState extends State<DoctorAppointmentPage> {
   DateTime? _selectedDateTime;
   String? _selectedDoctor;
 
