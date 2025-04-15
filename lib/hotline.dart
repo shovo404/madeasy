@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';  // Import url_launcher for calling functionality
+import 'package:url_launcher/url_launcher.dart'; // Import url_launcher for calling functionality
 
 class MadeasyHotlineScreen extends StatelessWidget {
   final List<Map<String, String>> hotlines = [
@@ -12,13 +12,12 @@ class MadeasyHotlineScreen extends StatelessWidget {
 
   MadeasyHotlineScreen({super.key});
 
-  // Function to call the number
   Future<void> _callNumber(String number) async {
     final Uri url = Uri(scheme: 'tel', path: number);
     if (await canLaunchUrl(url)) {
-      await launchUrl(url);  // Open dialer with the number
+      await launchUrl(url); // Open dialer with the number
     } else {
-      throw 'Could not launch $url';  // Error handling if the call cannot be initiated
+      throw 'Could not launch $url'; // Error handling if the call cannot be initiated
     }
   }
 
