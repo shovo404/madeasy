@@ -92,7 +92,6 @@ class _SignUpPageState extends State<SignUpPage> {
               style: TextStyle(fontSize: 16, color: Colors.black54),
             ),
             const SizedBox(height: 30),
-
             TextField(
               controller: _fullNameController,
               decoration: const InputDecoration(
@@ -101,7 +100,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
             ),
             const SizedBox(height: 20),
-
             TextField(
               controller: _emailController,
               decoration: const InputDecoration(
@@ -110,7 +108,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
             ),
             const SizedBox(height: 20),
-
             TextField(
               controller: _contactNumberController,
               decoration: const InputDecoration(
@@ -119,7 +116,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
             ),
             const SizedBox(height: 20),
-
             TextField(
               controller: _passwordController,
               obscureText: true,
@@ -129,7 +125,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
             ),
             const SizedBox(height: 30),
-
             ElevatedButton.icon(
               onPressed: _signUp,
               icon: const Icon(Icons.check),
@@ -143,7 +138,6 @@ class _SignUpPageState extends State<SignUpPage> {
                 ),
               ),
             ),
-
             const SizedBox(height: 20),
             if (_successMessage.isNotEmpty)
               AnimatedSwitcher(
@@ -152,21 +146,22 @@ class _SignUpPageState extends State<SignUpPage> {
                   _successMessage,
                   key: ValueKey(_successMessage),
                   style: TextStyle(
-                    color: _successMessage == 'Sign Up Successful!' ? Colors.green : Colors.red,
+                    color: _successMessage == 'Sign Up Successful!'
+                        ? Colors.green
+                        : Colors.red,
                     fontWeight: FontWeight.w600,
                     fontSize: 16,
                   ),
                 ),
               ),
-
             const SizedBox(height: 20),
-
             Center(
               child: TextButton(
                 onPressed: () => Navigator.pop(context),
                 child: const Text(
                   "Already have an account? Sign In",
-                  style: TextStyle(color: Colors.teal, fontWeight: FontWeight.w600),
+                  style: TextStyle(
+                      color: Colors.teal, fontWeight: FontWeight.w600),
                 ),
               ),
             ),
