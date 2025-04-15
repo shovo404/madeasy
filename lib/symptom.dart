@@ -6,7 +6,6 @@ class SymptomCheckerPage extends StatefulWidget {
   @override
   _SymptomCheckerPageState createState() => _SymptomCheckerPageState();
 }
-
 class _SymptomCheckerPageState extends State<SymptomCheckerPage> {
   final TextEditingController _symptomController = TextEditingController();
   String _result = '';
