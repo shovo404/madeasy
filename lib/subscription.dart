@@ -28,7 +28,7 @@ class SubscriptionPage extends StatelessWidget {
         appBar: AppBar(title: const Text('Subscription Plans')),
         body: Stack(
           children: [
-            // Background Image
+            // BackgroundImage
             Positioned.fill(
               child: Image.network(
                 'https://i.postimg.cc/XJ4CwfVR/austin-distel-f-Eedoyps-W-U-unsplash.jpg',
