@@ -1,16 +1,21 @@
-# madeasy
+# MadeEasy – Online Doctor Appointment & Patient Management
 
-A new Flutter project.
+**MadeEasy** is a Flutter-based mobile application designed to revolutionize healthcare access by offering a streamlined, digital-first experience for both patients and medical professionals. The app provides real-time appointment scheduling, AI-driven symptom checking, and remote consultations to make healthcare more accessible and efficient.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🩺 Project Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Online Appointment Booking**  
+- **Real-time Notifications & Schedule Management**  
+- **AI-powered Symptom Checker**  
+- **Remote Consultation Support**  
+- **User Profile & Health History**  
+- **Healthcare Plan Tracking**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Project Screenshots
+
+
+## 🎬 Project Video
