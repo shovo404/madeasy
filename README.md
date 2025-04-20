@@ -16,15 +16,16 @@
 ---
 
 ## 📸 Project Screenshots
-https://i.postimg.cc/sDfrshxn/login.png
-https://i.postimg.cc/y8kCSCFc/signup-page.png
-https://i.postimg.cc/mgJfYpwq/home-page.png
-https://i.postimg.cc/JhXwP3Yh/dr-Appointment-page.png
-https://i.postimg.cc/V69xcf8Q/doctor-list.png
-https://i.postimg.cc/L5Hr9c9q/hotline.png
-https://i.postimg.cc/7PVFsZ9S/sample-collection.png
-https://i.postimg.cc/RVpjmpjF/subscription.png
-https://i.postimg.cc/W1Dx16v7/symptom-checker.png
+![image alt](https://i.postimg.cc/sDfrshxn/login.png)  
+![image alt](https://i.postimg.cc/y8kCSCFc/signup-page.png)  
+![image alt](https://i.postimg.cc/mgJfYpwq/home-page.png)  
+![image alt](https://i.postimg.cc/JhXwP3Yh/dr-Appointment-page.png)  
+![image alt](https://i.postimg.cc/V69xcf8Q/doctor-list.png)  
+![image alt](https://i.postimg.cc/L5Hr9c9q/hotline.png)  
+![image alt](https://i.postimg.cc/7PVFsZ9S/sample-collection.png)  
+![image alt](https://i.postimg.cc/RVpjmpjF/subscription.png)  
+![image alt](https://i.postimg.cc/W1Dx16v7/symptom-checker.png)
+
 ## 🎬 Project Video
 https://github.com/shovo404/madeasy/blob/1bf9dae84af87e3ae5025b0400088aa92bf60415/new%20_MadEasy.mp4
 
