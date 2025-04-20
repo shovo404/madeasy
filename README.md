@@ -27,7 +27,9 @@
 ![image alt](https://i.postimg.cc/W1Dx16v7/symptom-checker.png)
 
 ## 🎬 Project Video
-[![Watch the video](https://github.com/shovo404/madeasy/blob/1bf9dae84af87e3ae5025b0400088aa92bf60415/new%20_MadEasy.mp4)]
+
+https://github.com/user-attachments/assets/e6bfa3ec-5294-4807-8f3f-ede27bbbb513
+
 
 
 ## Flutter Apk Link
