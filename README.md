@@ -19,3 +19,4 @@
 
 
 ## 🎬 Project Video
+https://github.com/shovo404/madeasy/blob/1bf9dae84af87e3ae5025b0400088aa92bf60415/new%20_MadEasy.mp4
