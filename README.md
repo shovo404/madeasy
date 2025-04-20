@@ -27,13 +27,12 @@
 ![image alt](https://i.postimg.cc/W1Dx16v7/symptom-checker.png)
 
 ## 🎬 Project Video
-
 https://github.com/user-attachments/assets/e6bfa3ec-5294-4807-8f3f-ede27bbbb513
 
 
+## Project Report
+https://drive.google.com/file/d/1HivO9SO3YjVcja5oSEG8jZs7906gMVM3/view?fbclid=IwY2xjawJyDdxleHRuA2FlbQIxMAABHjFTaMXlRnWlkxXmHkb6Rgjk5P3h5YPyXJP2IMsshcQvdXtWZ4Qg6deIas15_aem_nfZz3bdHDFmCcxhmj5THRQ
 
 ## Flutter Apk Link
 https://shorturl.at/oWxjs
 
-##Project Report
-https://drive.google.com/file/d/1HivO9SO3YjVcja5oSEG8jZs7906gMVM3/view?fbclid=IwY2xjawJyDdxleHRuA2FlbQIxMAABHjFTaMXlRnWlkxXmHkb6Rgjk5P3h5YPyXJP2IMsshcQvdXtWZ4Qg6deIas15_aem_nfZz3bdHDFmCcxhmj5THRQ
